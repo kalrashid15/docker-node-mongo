@@ -1,5 +1,5 @@
 version: '3'
-services:
+services: 
   app:
     container_name: docker-node-mongo
     restart: always
